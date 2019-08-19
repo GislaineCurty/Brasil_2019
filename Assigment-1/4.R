@@ -1,0 +1,8 @@
+x=as.character(8460.2)
+print(x)
+x1= as.numeric(x)
+print(x1)
+x2=as.integer(x1)
+print(x2)
+x3=as.logical(x2>0)
+print(x3)

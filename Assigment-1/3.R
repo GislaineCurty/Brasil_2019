@@ -1,0 +1,10 @@
+x = as.integer(2)
+y= 3.0
+print(x)
+print(y)
+typeof(x)
+typeof(y)
+print(x+y)
+typeof(print(x+y))
+as.integer(print(x+y))
+typeof(as.integer(print(x+y)))
